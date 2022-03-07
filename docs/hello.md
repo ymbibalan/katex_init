@@ -2,7 +2,7 @@
 layout: page
 title: "YOUSEF"
 permalink: /yousef/
-usemathjax: true
+# usemathjax: true
 
 ---
 
