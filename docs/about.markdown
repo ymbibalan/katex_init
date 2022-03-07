@@ -22,3 +22,6 @@ You can find the source code for Jekyll at GitHub:
 # HELLO from UofC
 
 $$E=mc^2$$
+
+
+`\(x_1 = 132\)` and `\(x_2 = 370\)`
